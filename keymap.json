@@ -1,6 +1,9 @@
 {
+  "config_file_directory": "~/.vimfx",
   "mode.caret.exit": "<escape> <c-[>",
   "mode.hints.exit": "<escape> <c-[>",
   "mode.ignore.exit": "<s-escape> <c-[>",
-  "mode.marks.exit": "<escape> <c-[>"
+  "mode.marks.exit": "<escape> <c-[>",
+  "custom.mode.normal.copy_url": "CU",
+  "custom.mode.normal.copy_markdown": "CM"
 }
