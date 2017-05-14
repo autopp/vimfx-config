@@ -1,0 +1,6 @@
+{
+  "mode.caret.exit": "<escape> <c-[>",
+  "mode.hints.exit": "<escape> <c-[>",
+  "mode.ignore.exit": "<s-escape> <c-[>",
+  "mode.marks.exit": "<escape> <c-[>"
+}
